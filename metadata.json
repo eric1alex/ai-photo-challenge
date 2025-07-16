@@ -1,0 +1,7 @@
+{
+  "name": "AI Photo Challenge",
+  "description": "A daily photography challenge website powered by AI to generate topics and analyze your submissions, helping you grow as a photographer.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
